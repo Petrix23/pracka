@@ -1,0 +1,5 @@
+c:\users\paweł\documents\visual studio 2015\Projects\kamil\kamil\bin\Debug\kamil.exe.config
+c:\users\paweł\documents\visual studio 2015\Projects\kamil\kamil\bin\Debug\kamil.exe
+c:\users\paweł\documents\visual studio 2015\Projects\kamil\kamil\bin\Debug\kamil.pdb
+c:\users\paweł\documents\visual studio 2015\Projects\kamil\kamil\obj\Debug\kamil.exe
+c:\users\paweł\documents\visual studio 2015\Projects\kamil\kamil\obj\Debug\kamil.pdb
